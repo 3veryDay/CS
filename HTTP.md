@@ -1,4 +1,4 @@
-# REST API (전체 문서 제목)
+# HTTP
 
 ## 목차
 1. [REST API란?](#rest-api)  
